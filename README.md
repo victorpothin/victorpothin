@@ -1,4 +1,4 @@
-<img align="left" height="280" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
+<img align="left" height="5000" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"/>
 
 ``
 Hello, I'm Victor
