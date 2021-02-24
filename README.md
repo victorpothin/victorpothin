@@ -6,7 +6,7 @@ I'm Victor
 
 - I’m currently working as a Developer at [Autoglass](https://www.autoglass.com.br)
 - I work with .NET and Node.Js.
-- I'm enthusiastic about functional langs like Haskell and Clojure!
+- I'm enthusiastic about functional langs like Haskell and F#!
 
 
 
