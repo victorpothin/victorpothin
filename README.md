@@ -3,9 +3,11 @@
 ``
 I'm Victor
 ``
-
+- I living in Espirito Santo, Brazil
+- I'm 25 yo.
 - I’m currently working as a Developer at [Autoglass](https://www.autoglass.com.br)
 - I work with .NET and Node.
+- In current I develop in GoLang for personal projects.
 - I'm enthusiastic about functional langs like Haskell and F#!
 
 
