@@ -5,7 +5,7 @@ I'm Victor
 ``
 - I living in Espirito Santo, Brazil
 - I'm 25 yo.
-- I’m currently working as a Developer at [Autoglass](https://www.autoglass.com.br)
+- I’m currently working as a Software Engineer at [GFT](https://www.gft.com)
 - I work with .NET and Node.
 - I'm enthusiastic about functional langs like Haskell and F#!
 
