@@ -4,13 +4,12 @@
 I'm Victor
 ``
 - I living in São Paulo, Brazil
-- I'm 26 yo.
-- I’m currently working as a Software Engineer at [GFT](https://www.gft.com)
-- I work with .NET and Node.
-- I'm enthusiastic about functional langs like Haskell and F#!
+- I'm 27 yo.
+- I’m currently working as a Software Engineer at [Via](https://www.viahub.com.br/)
+- I work with .NET.
+- I'm enthusiastic about functional langs like Haskell!
 
 
 
 #### My social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpothin/en)](https://www.linkedin.com/in/victorpothin/en/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/victorpothin/)](https://www.instagram.com/victorpothin/)
