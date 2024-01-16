@@ -4,8 +4,8 @@
 I'm Victor
 ``
 - I living in São Paulo, Brazil
-- I'm 27 yo.
-- I’m currently working as a Software Engineer at [Via](https://www.viahub.com.br/)
+- I'm 28 yo.
+- I’m currently working as a Senior Software Engineer at [Stone](https://www.stone.com.br/)
 - I work with .NET.
 - I'm enthusiastic about functional langs like Haskell!
 
