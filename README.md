@@ -3,7 +3,7 @@
 ``
 I'm Victor
 ``
-- I living in São Paulo, Brazil
+- I living in Vila Velha, Espírito Santo, Brazil
 - I'm 28 yo.
 - I’m currently working as a Senior Software Engineer at [Stone](https://www.stone.com.br/)
 - I work with .NET.
